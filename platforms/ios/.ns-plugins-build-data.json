@@ -1,0 +1,21 @@
+{
+	"@nativescript/core": {
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/@nativescript/core/platforms/ios/src/module.modulemap": "e3696280d924e540c4525889e025e1314ec183b9",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/@nativescript/core/platforms/ios/Podfile": "32c7118af05cda2870d9693d93b4c9376840221e",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/@nativescript/core/platforms/ios/src/NativeScriptEmbedder.m": "177d5673fac79dff28d09182eaef20778f66e787",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/@nativescript/core/platforms/ios/src/NativeScriptEmbedder.h": "61d5332c711cc0ac62e0194e18077d2ff5293b11",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/@nativescript/core/platforms/ios/typings/objc!MaterialComponents.d.ts": "6e22ade7ce74eea47dc88478166c1fa7a4b2d3a0"
+	},
+	"tns-core-modules-widgets": {
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/NSString+Async.h": "a3cdfaeb2f7360c395c8e6c2defb4a2b2ffc8f10",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSProcess.h": "787f09c57ede174d6323990e6d6e9eaf134da6f0",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h": "c7c5788d3ea834d96cf8a137cbf0c4ea28fd7829",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/UIView+PassThroughParent.h": "cddc4157f40983b34fcb1d3846666b5ecc5b1ca5",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/NSData+Async.h": "4eae4f66d67dc99a53dbbb7c2d8cf1b3df7eb487",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/UIImage+TNSBlocks.h": "3b31a5be818e25c142e99f98479c538632d350ae",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h": "814beee5b8d98390227b9889d64af11660eb1f09",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Modules/module.modulemap": "00d2220e76eb098f1808eb4e9b5c43ad4cadf1da",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Info.plist": "a4a930fc63184d81a6b05b81bc432b1a82d0c515",
+		"/Volumes/CodeSpace/tutorials/apple-signin-project/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/TNSWidgets": "b0f99b9b94900045c88587866a9297d5f783fb5a"
+	}
+}

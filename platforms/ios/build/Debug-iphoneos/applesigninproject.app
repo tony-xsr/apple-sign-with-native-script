@@ -1,0 +1,1 @@
+/Users/ngoctungtran/Library/Developer/Xcode/DerivedData/applesigninproject-cwzeuzfgrmbjdkfggfpnhwfkduqh/Build/Intermediates.noindex/ArchiveIntermediates/applesigninproject/InstallationBuildProductsLocation/Applications/applesigninproject.app
